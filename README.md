@@ -76,15 +76,15 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 105 Contributions in the Year 2022
  > 
-> 📦 53.4 kB Used in GitHub's Storage 
+> 📦 53.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,14 +121,14 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-PHP                      56 mins             ████████████░░░░░░░░░░░░░   48.94% 
-SCSS                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   27.01% 
-YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+PHP                      59 mins             ███████████████░░░░░░░░░░   61.63% 
+SCSS                     31 mins             ████████░░░░░░░░░░░░░░░░░   32.21% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.0%
+VS Code                  1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
@@ -149,5 +149,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 04:48:20 UTC
+ Last Updated on 25/01/2022 18:44:30 UTC
 <!--END_SECTION:waka-->
