@@ -76,7 +76,7 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
@@ -121,10 +121,14 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      56 mins             ████████████░░░░░░░░░░░░░   48.94% 
+SCSS                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   27.01% 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 55 mins        █████████████████████████   100.0%
 
 ```
 
@@ -145,5 +149,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 18:43:34 UTC
+ Last Updated on 25/01/2022 04:48:20 UTC
 <!--END_SECTION:waka-->
