@@ -78,19 +78,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 105 Contributions in the Year 2022
+> 🏆 108 Contributions in the Year 2022
  > 
-> 📦 53.7 kB Used in GitHub's Storage 
+> 📦 67.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -135,11 +135,11 @@ VS Code                  1 hr 36 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████████░░░░░░░░░░░   57.89% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               12 repos            █████████████░░░░░░░░░░░░   54.55% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -149,5 +149,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 18:44:30 UTC
+ Last Updated on 28/01/2022 05:05:33 UTC
 <!--END_SECTION:waka-->
