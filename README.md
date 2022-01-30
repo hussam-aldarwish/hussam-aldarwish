@@ -76,15 +76,13 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 108 Contributions in the Year 2022
  > 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 69.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -149,5 +147,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 18:44:24 UTC
+ Last Updated on 30/01/2022 18:42:50 UTC
 <!--END_SECTION:waka-->
