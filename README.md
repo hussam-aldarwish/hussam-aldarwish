@@ -76,17 +76,19 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%206%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 108 Contributions in the Year 2022
+> 🏆 109 Contributions in the Year 2022
  > 
-> 📦 69.7 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -119,14 +121,15 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-PHP                      59 mins             ███████████████░░░░░░░░░░   61.63% 
-SCSS                     31 mins             ████████░░░░░░░░░░░░░░░░░   32.21% 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+Other                    1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.38% 
+PHP                      59 mins             ████████░░░░░░░░░░░░░░░░░   31.88% 
+SCSS                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.0%
+VS Code                  1 hr 36 mins        █████████████░░░░░░░░░░░░   51.73% 
+Unknown Editor           1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.27%
 
 ```
 
@@ -147,5 +150,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 18:42:50 UTC
+ Last Updated on 31/01/2022 18:43:31 UTC
 <!--END_SECTION:waka-->
