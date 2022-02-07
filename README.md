@@ -76,61 +76,20 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2022
+> 🏆 112 Contributions in the Year 2022
  > 
-> 📦 75.4 kB Used in GitHub's Storage 
+> 📦 82.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    129 commits    ███████████░░░░░░░░░░░░░░   46.24% 
-🌆 Daytime    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
-🌃 Evening    75 commits     ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-🌙 Night      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       71 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45% 
-Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Thursday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
-Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-Other                    1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.38% 
-PHP                      59 mins             ████████░░░░░░░░░░░░░░░░░   31.88% 
-SCSS                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
-
-🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████░░░░░░░░░░░░   51.73% 
-Unknown Editor           1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.27%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -148,5 +107,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 18:43:55 UTC
+ Last Updated on 07/02/2022 22:51:27 UTC
 <!--END_SECTION:waka-->
