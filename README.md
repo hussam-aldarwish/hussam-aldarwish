@@ -76,4 +76,74 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2044%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 116 Contributions in the Year 2022
+ > 
+> 📦 82.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    129 commits    ███████████░░░░░░░░░░░░░░   45.58% 
+🌆 Daytime    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+🌃 Evening    75 commits     ██████░░░░░░░░░░░░░░░░░░░   26.5% 
+🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       71 commits     ██████░░░░░░░░░░░░░░░░░░░   25.09% 
+Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Thursday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
+Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
+Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            █████████████░░░░░░░░░░░░   54.55% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/02/2022 00:55:10 UTC
 <!--END_SECTION:waka-->
