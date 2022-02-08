@@ -76,36 +76,4 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 112 Contributions in the Year 2022
- > 
-> 📦 82.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            █████████████░░░░░░░░░░░░   54.55% 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
-
-
- Last Updated on 07/02/2022 23:08:10 UTC
 <!--END_SECTION:waka-->
