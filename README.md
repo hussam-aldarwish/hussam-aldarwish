@@ -76,28 +76,28 @@
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 249 Contributions in the Year 2022
+> 🏆 258 Contributions in the Year 2022
  > 
-> 📦 84.7 kB Used in GitHub's Storage 
+> 📦 85.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            █████████████░░░░░░░░░░░░   54.17% 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+JavaScript               13 repos            █████████████░░░░░░░░░░░░   52.0% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
@@ -107,5 +107,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hussam-aldarwish/hussam-aldarwish/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 03:36:51 UTC
+ Last Updated on 23/03/2022 00:46:40 UTC
 <!--END_SECTION:waka-->
