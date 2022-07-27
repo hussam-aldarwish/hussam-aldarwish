@@ -90,7 +90,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussam-aldarwish&show_icons=true&locale=en&layout=compact" alt="hussam-aldarwish" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
 
