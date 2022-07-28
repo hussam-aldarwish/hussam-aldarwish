@@ -2,6 +2,8 @@
 
 # Hussam Aldarwish
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussam-aldarwish&label=Profile%20views&color=0e75b6&style=flat" alt="hussam-aldarwish" /> </p>
+
 ### Front/Back-End Developer 👨‍💻 I've been learning by myself since 2013 🚀
   
 - 🌱 I’m currently **learning** [**Web3 & NEAR Protocol**](https://app.patika.dev/paths/web3-and-near-pathway) by [**Patika**](https://www.patika.dev)
@@ -14,7 +16,6 @@
 
 - 📍 I am happy to live in Istanbul, Türkiye.
 
-<br/>
 
 ## My Skill Set
 
@@ -87,12 +88,6 @@
 
 
 ## My Coding Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussam-aldarwish&show_icons=true&locale=en&layout=compact" alt="hussam-aldarwish" /></p>
-
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2015%20mins-blue)
@@ -167,3 +162,11 @@ CSS                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 28/07/2022 00:56:52 UTC
 <!--END_SECTION:waka-->
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussam-aldarwish&show_icons=true&locale=en&layout=compact" alt="hussam-aldarwish" /></p>
+
+<p align="left">&nbsp<img src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussam-aldarwish" alt="hussam-aldarwish" /></a> </p>
