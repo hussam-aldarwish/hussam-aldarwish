@@ -162,4 +162,4 @@ CSS                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussam-aldarwish" alt="hussam-aldarwish" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hussam-aldarwish" alt="hussam-aldarwish" /></p>
