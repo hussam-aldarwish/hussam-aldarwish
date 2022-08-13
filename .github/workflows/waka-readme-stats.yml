@@ -20,3 +20,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 2
+          SHOW_UPDATED_DATE: "False"
