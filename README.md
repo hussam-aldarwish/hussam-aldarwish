@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussam-aldarwish&label=Profile%20views&color=0e75b6&style=flat" alt="hussam-aldarwish" /> </p>
 
 ### Front/Back-End Developer 👨‍💻 I've been learning by myself since 2013 🚀
-  
+
 - 🌱 I’m currently **learning** [**Web3 & NEAR Protocol**](https://app.patika.dev/paths/web3-and-near-pathway) by [**Patika**](https://www.patika.dev)
 
 - ❓ **Ask me** about anything related to **JS** and **React**.
@@ -15,7 +15,6 @@
 - 🔭 I’m currently **working** as **Talent Specialist Intern** with [**Kodluyoruz**](https://www.kodluyoruz.org/) 🚀
 
 - 📍 I am happy to live in Istanbul, Türkiye.
-
 
 ## My Skill Set
 
@@ -85,82 +84,13 @@
 
 <br/>
 
+<p align="left">&nbsp<img src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussam-aldarwish&show_icons=true&locale=en&layout=compact" alt="hussam-aldarwish" /></p>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
 
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%2054%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 24 Contributions in the Year 2023
- > 
-> 📦 108.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 27 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    402 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.7% 
-🌆 Daytime    139 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.42% 
-🌃 Evening    215 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.3% 
-🌙 Night      208 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.58%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       153 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.87% 
-Tuesday      129 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.38% 
-Wednesday    135 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.0% 
-Thursday     131 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.59% 
-Friday       133 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.8% 
-Saturday     125 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.97% 
-Sunday       158 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.39%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-PHP                      2 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.46% 
-CSS                      39 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64% 
-JSON                     28 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.87% 
-YAML                     25 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.79% 
-JavaScript               14 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.12%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.02% 
-TypeScript               13 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.71% 
-HTML                     5 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.2% 
-PHP                      3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.32% 
-CSS                      3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.32%
-
-```
-
-
-
- Last Updated on 11/01/2023 01:41:32 UTC
 <!--END_SECTION:waka-->
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussam-aldarwish&show_icons=true&locale=en&layout=compact" alt="hussam-aldarwish" /></p>
-
-<p align="left">&nbsp<img src="https://github-readme-stats.vercel.app/api?username=hussam-aldarwish&show_icons=true&locale=en" alt="hussam-aldarwish" /></p>
-
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussam-aldarwish&" alt="hussam-aldarwish" /></p>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hussam-aldarwish" alt="hussam-aldarwish" /></p>
