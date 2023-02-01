@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussam-aldarwish&label=Profile%20views&color=0e75b6&style=flat" alt="hussam-aldarwish" /> </p>
 
-### Front/Back-End Developer 👨‍💻 I've been learning by myself since 2013 🚀
+### Front/Back-End Developer 👨‍💻 I've been learning by myself 🚀
 
 - 🌱 I’m currently **learning** [**Web3 & NEAR Protocol**](https://app.patika.dev/paths/web3-and-near-pathway) by [**Patika**](https://www.patika.dev)
 
