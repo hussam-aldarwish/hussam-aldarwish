@@ -12,7 +12,7 @@
 
 - 💡 I'm **interested** in **web** and **mobile apps** development.
 
-- 🔭 I’m currently **working** as **Talent Specialist Intern** with [**Kodluyoruz**](https://www.kodluyoruz.org/) 🚀
+- 🔭 I’m currently **working** as **IT Manager** with [**New Vision International School**](https://nvisk12.com/) 🚀
 
 - 📍 I am happy to live in Istanbul, Türkiye.
 
